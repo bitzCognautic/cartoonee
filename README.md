@@ -1,0 +1,1 @@
+Cartoonee Swords is a Minecraft texture pack that redesigns only the swords in a bold cartoon style while keeping the rest of the game vanilla. Each sword has thicker outlines, brighter colors, and smoother shading with slightly exaggerated shapes. The original silhouettes stay preserved for a fun, vibrant combat look without changing gameplay.
